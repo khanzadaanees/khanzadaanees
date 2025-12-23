@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Laravel+%7C+React+%7C+Next.js;Building+Scalable+Web+Apps;Private+Client+Projects+Expert" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Laravel+%7C+React+%7C+Next.js;Building+Scalable+Web+Apps;Private+Client+Projects+Expert" />
 </p>
 
 ---
@@ -52,7 +52,7 @@ I build **scalable web applications**, **REST APIs**, **booking platforms**, and
 
 ### 📝 CVProly – Resume Builder Platform  
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/cvproly.gif" width="220" />
+  <img src="https://image.thum.io/get/width/600/https://cvproly.com" width="220" />
 </p>
 
 **Tech:** Laravel (Backend), Next.js (Frontend)  
@@ -68,7 +68,7 @@ I build **scalable web applications**, **REST APIs**, **booking platforms**, and
 
 ### 🏨 Drini Hotels – Hotel & Taxi Booking System  
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/drinihotels.gif" width="220" />
+  <img src="https://image.thum.io/get/width/600/https://drinihotels.com" width="220" />
 </p>
 
 **Tech:** Laravel  
@@ -84,7 +84,7 @@ I build **scalable web applications**, **REST APIs**, **booking platforms**, and
 
 ### 🚢 Vacations To Points – Cruise Booking Platform  
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/vacations.gif" width="220" />
+  <img src="https://image.thum.io/get/width/600/https://vacationstopoints.com" width="220" />
 </p>
 
 **Tech:** Laravel  
@@ -100,7 +100,7 @@ I build **scalable web applications**, **REST APIs**, **booking platforms**, and
 
 ### 🏠 True Helpers – Home Services Marketplace  
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/truehelpers.gif" width="220" />
+  <img src="https://image.thum.io/get/width/600/https://truehelpers.com" width="220" />
 </p>
 
 **Tech:** Laravel, Vue.js  
@@ -116,7 +116,7 @@ I build **scalable web applications**, **REST APIs**, **booking platforms**, and
 
 ### 🧠 ADHD Clarity – Habit & Productivity Platform  
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/adhd.gif" width="220" />
+  <img src="https://image.thum.io/get/width/600/https://adultadhdclarity.com" width="220" />
 </p>
 
 **Tech:** Laravel  
@@ -148,13 +148,13 @@ I build **scalable web applications**, **REST APIs**, **booking platforms**, and
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khanzada-anees&show_icons=true&count_private=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khanzadaanees&show_icons=true&count_private=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=khanzada-anees&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=khanzadaanees&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanzada-anees&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanzadaanees&layout=compact&theme=tokyonight" />
 </p>
