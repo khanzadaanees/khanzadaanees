@@ -52,7 +52,7 @@ I build **scalable web applications**, **REST APIs**, **booking platforms**, and
 
 ### 📝 CVProly – Resume Builder Platform  
 <p align="center">
-  <img src="https://image.thum.io/get/width/600/https://cvproly.com" width="220" />
+  <img src="https://image.thum.io/get/width/600/https://cvproly.com" />
 </p>
 
 **Tech:** Laravel (Backend), Next.js (Frontend)  
@@ -68,7 +68,7 @@ I build **scalable web applications**, **REST APIs**, **booking platforms**, and
 
 ### 🏨 Drini Hotels – Hotel & Taxi Booking System  
 <p align="center">
-  <img src="https://image.thum.io/get/width/600/https://drinihotels.com" width="220" />
+  <img src="https://image.thum.io/get/width/600/https://drinihotels.com" />
 </p>
 
 **Tech:** Laravel  
@@ -84,7 +84,7 @@ I build **scalable web applications**, **REST APIs**, **booking platforms**, and
 
 ### 🚢 Vacations To Points – Cruise Booking Platform  
 <p align="center">
-  <img src="https://image.thum.io/get/width/600/https://vacationstopoints.com" width="220" />
+  <img src="https://image.thum.io/get/width/600/https://vacationstopoints.com" />
 </p>
 
 **Tech:** Laravel  
@@ -100,7 +100,7 @@ I build **scalable web applications**, **REST APIs**, **booking platforms**, and
 
 ### 🏠 True Helpers – Home Services Marketplace  
 <p align="center">
-  <img src="https://image.thum.io/get/width/600/https://truehelpers.com" width="220" />
+  <img src="https://image.thum.io/get/width/600/https://truehelpers.com" />
 </p>
 
 **Tech:** Laravel, Vue.js  
@@ -116,7 +116,7 @@ I build **scalable web applications**, **REST APIs**, **booking platforms**, and
 
 ### 🧠 ADHD Clarity – Habit & Productivity Platform  
 <p align="center">
-  <img src="https://image.thum.io/get/width/600/https://adultadhdclarity.com" width="220" />
+  <img src="https://image.thum.io/get/width/600/https://adultadhdclarity.com" />
 </p>
 
 **Tech:** Laravel  
@@ -146,10 +146,6 @@ I build **scalable web applications**, **REST APIs**, **booking platforms**, and
 <!-- ============================= -->
 
 ## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khanzadaanees&show_icons=true&count_private=true&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=khanzadaanees&theme=tokyonight" />
