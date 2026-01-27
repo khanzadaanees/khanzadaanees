@@ -107,7 +107,7 @@ I build **scalable web applications**, **REST APIs**, **booking platforms**, and
 ---
 
 ### 🧠 ADHD Clarity – Habit & Productivity Platform  
-![ADHD Clarity Home](images/ADHD%20Clarity.jpeg.jpeg)(https://adultadhdclarity.com)
+![ADHD Clarity Home](images/ADHD%20Clarity.jpeg)(https://adultadhdclarity.com)
 
 **Tech:** Laravel  
 **Features:**  
