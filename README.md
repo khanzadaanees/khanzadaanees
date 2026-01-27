@@ -138,8 +138,9 @@ I build **scalable web applications**, **REST APIs**, **booking platforms**, and
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=khanzadaanees" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=khanzadaanees&theme=dark&hide_border=true" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanzadaanees&layout=compact&theme=tokyonight" />
