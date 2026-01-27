@@ -51,9 +51,7 @@ I build **scalable web applications**, **REST APIs**, **booking platforms**, and
 ## 🚀 Featured Projects  
 
 ### 📝 CVProly – Resume Builder Platform  
-<p align="center">
-  <img src="https://image.thum.io/get/width/600/https://cvproly.com" />
-</p>
+![CVProly Home](images/CVProly.jpeg)
 
 **Tech:** Laravel (Backend), Next.js (Frontend)  
 **Features:**  
