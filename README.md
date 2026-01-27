@@ -51,7 +51,7 @@ I build **scalable web applications**, **REST APIs**, **booking platforms**, and
 ## 🚀 Featured Projects  
 
 ### 📝 CVProly – Resume Builder Platform  
-![CVProly Home](images/CVProly.jpeg)
+![CVProly Home](images/CVProly.jpeg)(https://cvproly.com)
 
 **Tech:** Laravel (Backend), Next.js (Frontend)  
 **Features:**  
@@ -65,9 +65,7 @@ I build **scalable web applications**, **REST APIs**, **booking platforms**, and
 ---
 
 ### 🏨 Drini Hotels – Hotel & Taxi Booking System  
-<p align="center">
-  <img src="https://image.thum.io/get/width/600/https://drinihotels.com" />
-</p>
+![Drini Hotels Home](images/Drini%20Hotels.jpeg)(https://drinihotels.com)
 
 **Tech:** Laravel  
 **Features:**  
@@ -81,9 +79,7 @@ I build **scalable web applications**, **REST APIs**, **booking platforms**, and
 ---
 
 ### 🚢 Vacations To Points – Cruise Booking Platform  
-<p align="center">
-  <img src="https://image.thum.io/get/width/600/https://vacationstopoints.com" />
-</p>
+![Vacations To Points Home](images/Vacations%20To%20Point.jpeg)(https://vacationstopoints.com)
 
 **Tech:** Laravel  
 **Features:**  
@@ -97,9 +93,7 @@ I build **scalable web applications**, **REST APIs**, **booking platforms**, and
 ---
 
 ### 🏠 True Helpers – Home Services Marketplace  
-<p align="center">
-  <img src="https://image.thum.io/get/width/600/https://truehelpers.com" />
-</p>
+![True Helpers Home](images/TrueHelpers.jpeg)(https://truehelpers.com)
 
 **Tech:** Laravel, Vue.js  
 **Features:**  
@@ -113,9 +107,7 @@ I build **scalable web applications**, **REST APIs**, **booking platforms**, and
 ---
 
 ### 🧠 ADHD Clarity – Habit & Productivity Platform  
-<p align="center">
-  <img src="https://image.thum.io/get/width/600/https://adultadhdclarity.com" />
-</p>
+![ADHD Clarity Home](images/ADHD%20Clarity.jpeg.jpeg)(https://adultadhdclarity.com)
 
 **Tech:** Laravel  
 **Features:**  
