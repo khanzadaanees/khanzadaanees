@@ -139,7 +139,7 @@ I build **scalable web applications**, **REST APIs**, **booking platforms**, and
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=khanzadaanees&theme=tokyonight&hide_border=true" />
-</p>>
+</p>
 
 
 <p align="center">
